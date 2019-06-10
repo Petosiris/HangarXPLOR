@@ -22,9 +22,17 @@ https://chrome.google.com/webstore/detail/hangarxplor/bhkgemjdepodofcnmekdobmmbi
 
 https://addons.mozilla.org/en-US/firefox/addon/star-citizen-hangar-xplorer/
 
+# Opera Add-On
+
+https://addons.opera.com/en/extensions/details/star-citizen-hangar-xplorer/
+
 # Safari Add-On
 
 ** Not Scheduled **
+
+# Downloads
+
+https://github.com/dolkensp/HangarXPLOR/releases/latest
 
 # Screenshots
 
